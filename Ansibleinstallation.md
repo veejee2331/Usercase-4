@@ -1,4 +1,4 @@
-
+![Watch the image](/Ansibleinstallation.png)
 # Steps
 
  -  step1: Create three Ec2 instance (one master and two child)
